@@ -1,7 +1,7 @@
 baseURL = "https://spiritually.one"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Spiritually One: a modern perspective on Spirituality"
+title = "Spiritually One"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
