@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spiritually One: a modern perspective on Spirituality</title>
+    <link>https://spiritually.one/fr/</link>
+    <description>Recent content on Spiritually One: a modern perspective on Spirituality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jonathan Soifer</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 12:46:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://spiritually.one/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mon premier article de blog</title>
+      <link>https://spiritually.one/mon-premier-article-de-blog/</link>
+      <pubDate>Sat, 11 Apr 2020 12:46:19 +0200</pubDate>
+      
+      <guid>https://spiritually.one/mon-premier-article-de-blog/</guid>
+      <description>Je suis un test!</description>
+    </item>
+    
+  </channel>
+</rss>
