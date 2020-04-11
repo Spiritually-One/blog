@@ -9,35 +9,40 @@ copyright = "Jonathan Soifer"
 
 [languages]
 	[languages.en]
-		languageName= "English"
 		contentDir= "content/en"
+		languageName= "English"
 		weight= 1
 	[languages.pt]
+		contentDir= "content/pt"
 		languageName= "Português"
-		contentDir= "content/fr"
 		weight= 2
 	[languages.es]
-		languageName= "Español"
 		contentDir= "content/es"
+		languageName= "Español"
 		weight= 3
 	[languages.fr]
-		languageName= "Français"
 		contentDir= "content/fr"
+		languageName= "Français"
 		weight= 4
+			[permalinks]
+				fr = ":title"
 	[languages.de]
-		languageName= "Deutsch"
 		contentDir= "content/de"
+		languageName= "Deutsch"
 		weight= 5
 	[languages.it]
-		languageName= "Italiano"
 		contentDir= "content/it"
+		languageName= "Italiano"
 		weight= 6
 	[languages.jp]
-		languageName= "日本語"
 		contentDir= "content/jp"
+		languageName= "日本語"
 		weight= 7
 	[languages.he]
-		languageName= "עברית"
 		contentDir= "content/he"
+		languageName= "עברית"
 		weight= 8
 		languagedirection= "rtl"
+
+[permalinks]
+	posts = ":title"
