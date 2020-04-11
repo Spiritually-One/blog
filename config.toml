@@ -5,39 +5,39 @@ title = "Spiritually One: a modern perspective on Spirituality"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
-copyright = "Jonathan Soifer 2020+"
+copyright = "Jonathan Soifer"
 
 [languages]
 	[languages.en]
-		languageName= English
+		languageName= "English"
 		contentDir= "content/en"
 		weight= 1
 	[languages.pt]
-		languageName= Português
+		languageName= "Português"
 		contentDir= "content/fr"
 		weight= 2
 	[languages.es]
-		languageName= Español
+		languageName= "Español"
 		contentDir= "content/es"
 		weight= 3
 	[languages.fr]
-		languageName= Français
+		languageName= "Français"
 		contentDir= "content/fr"
 		weight= 4
 	[languages.de]
-		languageName= Deutsch
+		languageName= "Deutsch"
 		contentDir= "content/de"
 		weight= 5
 	[languages.it]
-		languageName= Italiano
+		languageName= "Italiano"
 		contentDir= "content/it"
 		weight= 6
 	[languages.jp]
-		languageName= 日本語
+		languageName= "日本語"
 		contentDir= "content/jp"
-		weight= 8
-		[languages.he]
-		languageName= עברית
-		contentDir= "content/he"
 		weight= 7
-		languagedirection= rtl
+	[languages.he]
+		languageName= "עברית"
+		contentDir= "content/he"
+		weight= 8
+		languagedirection= "rtl"

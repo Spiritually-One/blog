@@ -6,6 +6,7 @@
     <description>Recent content on Spiritually One: a modern perspective on Spirituality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Jonathan Soifer 2020&#43;</copyright>
     <lastBuildDate>Sat, 11 Apr 2020 12:46:19 +0200</lastBuildDate>
     
 	<atom:link href="https://spiritually.one/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +14,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://spiritually.one/posts/my-first-post/</link>
+      <link>https://spiritually.one/my-first-post/</link>
       <pubDate>Sat, 11 Apr 2020 12:46:19 +0200</pubDate>
       
-      <guid>https://spiritually.one/posts/my-first-post/</guid>
+      <guid>https://spiritually.one/my-first-post/</guid>
       <description>I&amp;rsquo;m kickstarting my own blog project, this is a first test post!
 Yaaay!</description>
     </item>
