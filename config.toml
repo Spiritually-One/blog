@@ -24,8 +24,6 @@ copyright = "Jonathan Soifer"
 		contentDir= "content/fr"
 		languageName= "Français"
 		weight= 4
-			[permalinks]
-				fr = ":title"
 	[languages.de]
 		contentDir= "content/de"
 		languageName= "Deutsch"
