@@ -3,3 +3,41 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Spiritually One: a modern perspective on Spirituality"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+copyright = "Jonathan Soifer 2020+"
+
+[languages]
+	[languages.en]
+		languageName= English
+		contentDir= "content/en"
+		weight= 1
+	[languages.pt]
+		languageName= Português
+		contentDir= "content/fr"
+		weight= 2
+	[languages.es]
+		languageName= Español
+		contentDir= "content/es"
+		weight= 3
+	[languages.fr]
+		languageName= Français
+		contentDir= "content/fr"
+		weight= 4
+	[languages.de]
+		languageName= Deutsch
+		contentDir= "content/de"
+		weight= 5
+	[languages.it]
+		languageName= Italiano
+		contentDir= "content/it"
+		weight= 6
+	[languages.jp]
+		languageName= 日本語
+		contentDir= "content/jp"
+		weight= 8
+		[languages.he]
+		languageName= עברית
+		contentDir= "content/he"
+		weight= 7
+		languagedirection= rtl
